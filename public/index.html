@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>To Do List</title>
+
+    <script src="lib/jquery-3.1.0.min.js"></script>
+    <script src="javascript/servejax.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles/style.css" />
+
+    <!-- Bootstrap library -->
+    <script src="lib/bootstrap.min.js">
+    </script>
+    <link rel="stylesheet" type="text/css" href="lib/bootstrap.min.css" />
+
+</head>
+
+<body>
+    <div class="input-div">
+        <input type="text" name="task" id="task" class="form-control task-input" placeholder="Enter task">
+
+        <button onclick="addTask()" type="button" class="btn btn-success save-button">SAVE</button>
+    </div>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <th>#</th>
+            <th>Tasks</th>
+            <th>Status</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Sambhaji</td>
+                <td>done</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Sambhaji</td>
+                <td>done</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Sambhaji</td>
+                <td>done</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>
