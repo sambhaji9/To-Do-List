@@ -1,27 +1,19 @@
+var fs = require("fs");
 const sqlite3 = require('sqlite3').verbose();
-var data;
 
-exports.getTasksList = function(taskObj) {
-    // initialize the data
-    data = [];
+exports.getTasksList = function() {
+    var db = new sqlite3.Database("toDo.db", sqlite3.OPEN_READONLY);
 
-    // connect to the database
-    let db = new sqlite3.Database('toDo.db');
+    db.serialize(function() {
+        db.all("select * from myTasks", function(err, allRows) {
+            if (err != null) {
+                console.log(err);
+            }
 
-    // select the data from the table
-    db.all('select * from myTasks', [], (err, rows) => {
-        if (err) {
-            console.error(err.message);
-        }
-        rows.forEach((row) => {
-            data.push({
-                id: row.id,
-                task: row.task,
-                status: row.status
-            });
+            fs.writeFileSync("./temp.json", JSON.stringify(allRows, null, 4));
+
+            db.close();
+            return allRows;
         });
     });
-    // close the database
-    db.close();
-    return data;
 };
