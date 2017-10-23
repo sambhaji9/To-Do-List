@@ -44,6 +44,7 @@ function addTask() {
         if (xmlHttpRequest.readyState === XMLHttpRequest.DONE) {
             if (xmlHttpRequest.status === 200) {
                 loadList(xmlHttpRequest.responseText);
+                document.getElementById("task").value = "";
             } else {
                 console.error("This is a problem with the request");
             }
