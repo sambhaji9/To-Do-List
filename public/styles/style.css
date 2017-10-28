@@ -42,3 +42,7 @@ tbody td:last-child {
     width: 100px;
     text-align: center;
 }
+
+.search-box {
+    margin: 10px;
+}
