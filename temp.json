@@ -176,8 +176,8 @@
     {
         "id": 30,
         "task": "Update the AHA app specifications sheet with TPA stroke, Stroke rehab and PCI guidelines",
-        "status": "0",
-        "dateStamp": null
+        "status": "1",
+        "dateStamp": "10/31/2017, 10:08:24 AM"
     },
     {
         "id": 31,
@@ -194,8 +194,8 @@
     {
         "id": 33,
         "task": "Send the ACR timeline approval to Dominik. {Wait for Parag's approval on ACR.}",
-        "status": "0",
-        "dateStamp": null
+        "status": "1",
+        "dateStamp": "11/2/2017, 12:58:39 PM"
     },
     {
         "id": 34,
@@ -224,8 +224,8 @@
     {
         "id": 38,
         "task": "Send ACC app, HTN and VASCD options to Dominik",
-        "status": "0",
-        "dateStamp": null
+        "status": "1",
+        "dateStamp": "11/4/2017, 10:05:55 PM"
     },
     {
         "id": 39,
@@ -236,8 +236,8 @@
     {
         "id": 40,
         "task": " Have a look at the Endocrine app guidelines.",
-        "status": "0",
-        "dateStamp": null
+        "status": "1",
+        "dateStamp": "10/31/2017, 10:06:07 AM"
     },
     {
         "id": 41,
@@ -374,8 +374,8 @@
     {
         "id": 63,
         "task": "Send the timing for the Skype call on COPD pocket to Nathalie.",
-        "status": "0",
-        "dateStamp": null
+        "status": "1",
+        "dateStamp": "10/31/2017, 9:59:21 AM"
     },
     {
         "id": 64,
@@ -416,13 +416,271 @@
     {
         "id": 70,
         "task": "Sed email to Shrinath, Vinod to add external testers for Rheumatologie app",
-        "status": "0",
-        "dateStamp": null
+        "status": "1",
+        "dateStamp": "11/3/2017, 1:18:41 PM"
     },
     {
         "id": 71,
         "task": "Read and reply on the protocol on Redmine sent by Vaclav",
+        "status": "1",
+        "dateStamp": "11/2/2017, 4:18:40 PM"
+    },
+    {
+        "id": 72,
+        "task": "Write the ASCO app online status to team and Dominik.",
+        "status": "1",
+        "dateStamp": "10/28/2017, 5:13:01 PM"
+    },
+    {
+        "id": 74,
+        "task": "Add Endocrine app in Redmine. Write email to Vaclav. Notify Suraj.",
+        "status": "1",
+        "dateStamp": "10/31/2017, 3:16:01 PM"
+    },
+    {
+        "id": 75,
+        "task": "Write to Vinod for iOS app backup. Upload the backup of ASCO iOS app. Upload the behavioural file on behaviour file database. Update the build information.",
+        "status": "1",
+        "dateStamp": "11/2/2017, 4:18:25 PM"
+    },
+    {
+        "id": 76,
+        "task": "Write to Kapil for Android app backup. Upload the backup of ASCO Android app. Upload the behavioural file on behaviour file database. Update the build information.",
+        "status": "1",
+        "dateStamp": "11/2/2017, 4:18:24 PM"
+    },
+    {
+        "id": 77,
+        "task": "Resend the invitation to all the AHA app testers",
+        "status": "1",
+        "dateStamp": "10/31/2017, 9:54:38 AM"
+    },
+    {
+        "id": 78,
+        "task": "Review the design draft of the ASEcho app with Nilesh",
         "status": "0",
-        "dateStamp": "10/28/2017, 8:32:26 AM"
+        "dateStamp": null
+    },
+    {
+        "id": 79,
+        "task": "Request Kiran to give you the JIRA admin access",
+        "status": "0",
+        "dateStamp": null
+    },
+    {
+        "id": 80,
+        "task": "Make groups of users in JIRA with Kiran",
+        "status": "0",
+        "dateStamp": null
+    },
+    {
+        "id": 81,
+        "task": "Update the AHA app, status sheet. Send it to Parag in the afternoon.",
+        "status": "1",
+        "dateStamp": "11/3/2017, 6:24:41 PM"
+    },
+    {
+        "id": 82,
+        "task": "Fill the daily logs for 30-Nov-2017 in Redmine",
+        "status": "1",
+        "dateStamp": "10/31/2017, 1:17:58 PM"
+    },
+    {
+        "id": 83,
+        "task": "Research for AGILE program board and Roadmap in JIRA",
+        "status": "0",
+        "dateStamp": null
+    },
+    {
+        "id": 84,
+        "task": "Send the standard google analytics sheet to Nathalie and Shaishav on Thursday, 2 Nov",
+        "status": "1",
+        "dateStamp": "11/2/2017, 1:23:21 PM"
+    },
+    {
+        "id": 85,
+        "task": "Request Nathalie for the Dyslipedimia sponsor images information and open files",
+        "status": "0",
+        "dateStamp": null
+    },
+    {
+        "id": 86,
+        "task": "Request Rahul to send the ESC app changes to be integrated in the server update",
+        "status": "1",
+        "dateStamp": "11/2/2017, 12:58:01 PM"
+    },
+    {
+        "id": 87,
+        "task": "Work on the next 3-4 sprint planning. Present to the development team.",
+        "status": "1",
+        "dateStamp": "11/1/2017, 4:16:31 PM"
+    },
+    {
+        "id": 88,
+        "task": "Reply to Dominik on ACC app planning. Consult with web production team.",
+        "status": "1",
+        "dateStamp": "11/1/2017, 6:09:51 PM"
+    },
+    {
+        "id": 89,
+        "task": "Update the AHA app, Tools status with Disha and Soumya",
+        "status": "1",
+        "dateStamp": "11/1/2017, 2:43:11 PM"
+    },
+    {
+        "id": 90,
+        "task": "Update the product backlog of modules team with post-it",
+        "status": "1",
+        "dateStamp": "11/1/2017, 2:43:06 PM"
+    },
+    {
+        "id": 91,
+        "task": "Update the product backlog of web research team with post-it",
+        "status": "0",
+        "dateStamp": null
+    },
+    {
+        "id": 92,
+        "task": "Send the apps priority to all the teams from 1 Nov to 8 Nov",
+        "status": "1",
+        "dateStamp": "11/1/2017, 5:56:52 PM"
+    },
+    {
+        "id": 93,
+        "task": "Update the today page with apps and story points",
+        "status": "1",
+        "dateStamp": "11/1/2017, 6:26:00 PM"
+    },
+    {
+        "id": 94,
+        "task": "Pay the electricity bill",
+        "status": "1",
+        "dateStamp": "11/2/2017, 4:18:58 PM"
+    },
+    {
+        "id": 95,
+        "task": "Update the story points for modules team and web research team",
+        "status": "0",
+        "dateStamp": null
+    },
+    {
+        "id": 96,
+        "task": "Reply to Frank on the AHA related questions",
+        "status": "1",
+        "dateStamp": "11/1/2017, 5:56:00 PM"
+    },
+    {
+        "id": 97,
+        "task": "Reply to Dominik on ACC app timeline.",
+        "status": "1",
+        "dateStamp": "11/2/2017, 1:09:22 PM"
+    },
+    {
+        "id": 98,
+        "task": "Edit the GA sheet for COPD pocket.",
+        "status": "1",
+        "dateStamp": "11/2/2017, 1:23:14 PM"
+    },
+    {
+        "id": 99,
+        "task": "Write Endocrine app, Amyloidosis app, ACC app editorial tasks email to Dominik.",
+        "status": "0",
+        "dateStamp": null
+    },
+    {
+        "id": 100,
+        "task": "Send the AHA app, credentials CSV to Kiran, Kapil, Shrinath, Aditya. Add password field",
+        "status": "1",
+        "dateStamp": "11/2/2017, 1:43:32 PM"
+    },
+    {
+        "id": 101,
+        "task": "Meeting with Mukesh on AHA app solving the Amazon S3 bucket issue.",
+        "status": "1",
+        "dateStamp": "11/3/2017, 10:36:57 AM"
+    },
+    {
+        "id": 102,
+        "task": "Work on the future sprint planning. Add more epics in the JIRA.",
+        "status": "1",
+        "dateStamp": "11/3/2017, 5:08:05 PM"
+    },
+    {
+        "id": 103,
+        "task": "Meeting with Gaurav and Lalit for EAU app issue and tools issue",
+        "status": "1",
+        "dateStamp": "11/2/2017, 3:47:49 PM"
+    },
+    {
+        "id": 104,
+        "task": "solve the reference box text left issue with Disha",
+        "status": "1",
+        "dateStamp": "11/2/2017, 3:48:16 PM"
+    },
+    {
+        "id": 105,
+        "task": "Send testflight version of AHA app to Frank",
+        "status": "0",
+        "dateStamp": null
+    },
+    {
+        "id": 106,
+        "task": "Forward screenshots and update text to programmers",
+        "status": "1",
+        "dateStamp": "11/3/2017, 10:36:51 AM"
+    },
+    {
+        "id": 107,
+        "task": "Check the Rheumatologie app in Android app",
+        "status": "1",
+        "dateStamp": "11/3/2017, 6:18:01 PM"
+    },
+    {
+        "id": 108,
+        "task": "Forward DGK app feedback to Web production team. Ask for estimates.",
+        "status": "1",
+        "dateStamp": "11/3/2017, 1:07:02 PM"
+    },
+    {
+        "id": 109,
+        "task": "Forward DGAI app feedback to Web production team. Ask for estimates.",
+        "status": "0",
+        "dateStamp": "11/4/2017, 10:20:24 PM"
+    },
+    {
+        "id": 110,
+        "task": "Meeting with web production team for ESC app, DGK app, DGAI app",
+        "status": "1",
+        "dateStamp": "11/3/2017, 12:24:05 PM"
+    },
+    {
+        "id": 111,
+        "task": "Write email to Dominik for Endocrine app third XML file.",
+        "status": "1",
+        "dateStamp": "11/3/2017, 12:30:10 PM"
+    },
+    {
+        "id": 112,
+        "task": "Write email to Bettina, if Kardio onko and Perikard GL is ready on CMS",
+        "status": "1",
+        "dateStamp": "11/3/2017, 12:48:58 PM"
+    },
+    {
+        "id": 113,
+        "task": "Reply to Mariona on design draft of DM Info pocket",
+        "status": "1",
+        "dateStamp": "11/3/2017, 5:07:58 PM"
+    },
+    {
+        "id": 114,
+        "task": "Write email to cecilia on AHA app status of content images",
+        "status": "1",
+        "dateStamp": "11/3/2017, 6:24:31 PM"
+    },
+    {
+        "id": 115,
+        "task": "Think on adding next releases in the AHA update sheet. Send to Parag",
+        "status": "0",
+        "dateStamp": null
     }
 ]

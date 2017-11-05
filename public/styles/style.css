@@ -2,6 +2,18 @@ body {
     padding: 10px;
 }
 
+table {
+    border-collapse: collapse;
+    letter-spacing: .5px;
+}
+
+button {
+    padding: 7px;
+    color: #f0f0f0;
+    border-radius: 7px;
+    background: #00cc00;
+}
+
 .input-div {
     padding: 10px;
 }
@@ -10,7 +22,14 @@ body {
     width: 85%;
     text-align: left;
     float: left;
-    font-size: 14px
+    font-size: 14px;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.task-input:focus {
+    outline-color: green;
+    outline-width: 1px;
 }
 
 .input-div .save-button {
@@ -21,10 +40,13 @@ body {
 
 .table th {
     text-align: center;
+    font-size: 14px;
+    padding: 10px;
 }
 
 .table td {
     font-size: 14px;
+    padding: 10px;
 }
 
 .table td .table td,
@@ -45,4 +67,24 @@ tbody td:last-child {
 
 .search-box {
     margin: 10px;
+    width: 85%;
+    text-align: left;
+    float: left;
+    font-size: 14px;
+    padding: 7px;
+}
+
+.search-box:focus {
+    outline-color: green;
+    outline-width: 1px;
+}
+
+@font-face {
+    font-family: "SourceSansPro-Light";
+    src: url("./fonts/SourceSansPro-Light.otf")
+}
+
+@font-face {
+    font-family: "SourceSansPro-Regular";
+    src: url("./fonts/SourceSansPro-Regular.otf")
 }

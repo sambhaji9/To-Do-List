@@ -14,13 +14,8 @@ $(document).ready(function() {
         // find out the checkbox ticked status
         var tickStatus = $("#" + checkBox).is(":checked");
 
-        // strikeout the sentence, if ticked
-        if (tickStatus) {
-            row.style.textDecoration = "line-through";
-            row.style.textDecorationColor = "red";
-        } else {
-            row.style.textDecoration = "none";
-        }
+        // change the checkbox status
+        changeTaskStyle(row, tickStatus);
 
         var xmlHttpRequest = new XMLHttpRequest();
 
@@ -42,9 +37,13 @@ $(document).ready(function() {
         xmlHttpRequest.send();
     });
 
-    $("#tBodyList").click(function() {
-        console.log("clicked on td");
-    });
+    // $("table").on("click", "tr", function() {
+    //     // get the clicked row id
+    //     var rowId = $(this).closest("tr").attr("id");
+    //     var row = document.getElementById(rowId);
+
+    //     prompt("Edit the text", row.children[1].innerHTML);
+    // });
 
     $("#search").keyup(function() {
         // get the text from the search box
@@ -72,30 +71,55 @@ $(document).ready(function() {
 });
 
 /**
+ * function changing the style of the row, depending on checkbox selction
+ * @param {element} row whose style has to be changed
+ * @param {boolean} checkbox selection status
+ */
+function changeTaskStyle(row, tickStatus) {
+    // strikeout the sentence, if ticked
+    if (tickStatus) {
+        row.style.textDecoration = "line-through";
+        row.style.textDecorationColor = "red";
+        row.style.color = "#909090";
+    } else {
+        row.style.textDecoration = "none";
+        row.style.color = "#212529";
+    }
+}
+
+/**
  * function adding tasks in the list.
  */
 function addTask() {
-    var xmlHttpRequest = new XMLHttpRequest();
+    // get the task text
+    var taskText = document.getElementById("task").value;
 
-    if (!xmlHttpRequest) {
-        return false;
-    }
+    // Add the task if the task is not empty
+    if (taskText !== "") {
+        var xmlHttpRequest = new XMLHttpRequest();
 
-    xmlHttpRequest.onreadystatechange = function() {
-        if (xmlHttpRequest.readyState === XMLHttpRequest.DONE) {
-            if (xmlHttpRequest.status === 200) {
-                // load the tasks list
-                loadList(xmlHttpRequest.responseText);
-                // make the input field empty
-                document.getElementById("task").value = "";
-            } else {
-                console.error("This is a problem with the request");
-            }
+        if (!xmlHttpRequest) {
+            return false;
         }
-    };
 
-    xmlHttpRequest.open("GET", "http://127.0.0.1:3000/add_task" + "?task=" + document.getElementById("task").value, true);
-    xmlHttpRequest.send();
+        xmlHttpRequest.onreadystatechange = function() {
+            if (xmlHttpRequest.readyState === XMLHttpRequest.DONE) {
+                if (xmlHttpRequest.status === 200) {
+                    // load the tasks list
+                    loadList(xmlHttpRequest.responseText);
+                    // make the input field empty
+                    document.getElementById("task").value = "";
+                } else {
+                    console.error("This is a problem with the request");
+                }
+            }
+        };
+
+        xmlHttpRequest.open("GET", "http://127.0.0.1:3000/add_task" + "?task=" + document.getElementById("task").value, true);
+        xmlHttpRequest.send();
+    } else {
+        alert("Please enter the task");
+    }
 }
 
 /** function getting the complete list of the tasks */
@@ -121,6 +145,10 @@ function getTasksList() {
     xmlHttpRequest.send();
 }
 
+/**
+ * function making and showing the list items from the response received from the server
+ * @param {JSON array} array, list of tasks from the server 
+ */
 function loadList(list) {
     // get reference to the tbody tag and make it empty
     var tBodyList = document.getElementById("tBodyList");
@@ -145,9 +173,14 @@ function loadList(list) {
         var taskCell = document.createElement("td");
         taskCell.innerHTML = data[node].task;
 
+        // set the task status style dependng on the 
         if (data[node].status === "1") {
             taskCell.style.textDecoration = "line-through";
             taskCell.style.textDecorationColor = "red";
+            taskCell.style.color = "#909090";
+        } else {
+            taskCell.style.textDecoration = "none";
+            taskCell.style.color = "#212529";
         }
 
         row.appendChild(taskCell);
@@ -170,5 +203,22 @@ function loadList(list) {
 
         // append the table row to the tbody list
         tBodyList.appendChild(row);
+    }
+}
+
+function notifyMe() {
+    if (Notification.permission !== "granted") {
+        Notification.requestPermission();
+    } else {
+        var notification = new Notification("Notofication title", {
+            icon: "file.png",
+            body: "This is a notification"
+        });
+
+        setTimeout(notification.close.bind(notification), 3000);
+
+        notification.onclick = function() {
+            window.open("https://www.google.co.in");
+        };
     }
 }
