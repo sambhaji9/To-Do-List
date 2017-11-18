@@ -27,6 +27,7 @@ $(document).ready(function() {
             if (xmlHttpRequest.readyState === XMLHttpRequest.DONE) {
                 if (xmlHttpRequest.status === 200) {
                     console.log(xmlHttpRequest.responseText);
+                    notifyMe("Update task", "Task updated successfully");
                 } else {
                     console.error("This is a problem with the request");
                 }
@@ -109,6 +110,7 @@ function addTask() {
                     loadList(xmlHttpRequest.responseText);
                     // make the input field empty
                     document.getElementById("task").value = "";
+                    notifyMe("Add task", "Task added successfully");
                 } else {
                     console.error("This is a problem with the request");
                 }
@@ -178,9 +180,14 @@ function loadList(list) {
             taskCell.style.textDecoration = "line-through";
             taskCell.style.textDecorationColor = "red";
             taskCell.style.color = "#909090";
+            // if the task is done, add the dateStamp
+            taskCell.appendChild(getLatestDate(data[node].dateStamp));
         } else {
             taskCell.style.textDecoration = "none";
             taskCell.style.color = "#212529";
+            // if the task is not done, add the taskAddedDateStamp
+            if (data[node].taskAddedDateStamp !== null)
+                taskCell.appendChild(getLatestDate(data[node].taskAddedDateStamp));
         }
 
         row.appendChild(taskCell);
@@ -206,19 +213,39 @@ function loadList(list) {
     }
 }
 
-function notifyMe() {
+/**
+ * function returning the span containing the date
+ * @param {date}
+ */
+function getLatestDate(date) {
+    var dateSpan = document.createElement("span");
+    dateSpan.setAttribute("class", "date-span");
+
+    dateSpan.innerHTML = "<br>" + date;
+    return dateSpan;
+}
+
+/**
+ * function showing the notification after the operations are completed
+ * @param {string} title of the notification
+ * @param {string} message in the notification
+ */
+function notifyMe(title, message) {
+    // check if the notifications permission is granted
     if (Notification.permission !== "granted") {
         Notification.requestPermission();
     } else {
-        var notification = new Notification("Notofication title", {
+        // define the notification
+        var notification = new Notification(title, {
             icon: "file.png",
-            body: "This is a notification"
+            body: message
         });
 
+        // set timeout, so that notification is closed automatically after 3 seconds
         setTimeout(notification.close.bind(notification), 3000);
 
-        notification.onclick = function() {
-            window.open("https://www.google.co.in");
-        };
+        // notification.onclick = function() {
+        //     window.open("https://www.google.co.in");
+        // };
     }
 }

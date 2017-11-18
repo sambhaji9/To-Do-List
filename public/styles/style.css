@@ -44,6 +44,10 @@ button {
     padding: 10px;
 }
 
+.table-header {
+    background-color: #aabbcc;
+}
+
 .table td {
     font-size: 14px;
     padding: 10px;
@@ -77,6 +81,12 @@ tbody td:last-child {
 .search-box:focus {
     outline-color: green;
     outline-width: 1px;
+}
+
+.date-span {
+    font-size: 12px;
+    font-style: italic;
+    padding-top: 3px;
 }
 
 @font-face {
