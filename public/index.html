@@ -21,22 +21,30 @@
 
         <button onclick="addTask()" type="button" class="btn btn-success save-button">SAVE</button>
 
+        <span class="about" id="aboutButton">About</span>
+
     </div>
 
     <div>
         <input type="text" name="search" id="search" class="search-box form-control " placeholder="Search" style="width:83%; font-size:14px;" />
+        <select class="filter" id="filter">
+            <option>All tasks</option>
+            <option>Done</option>
+            <option>Pending</option>
+        </select>
     </div>
 
     <table class="table table-bordered table-hover">
         <thead class="table-header">
             <th>#</th>
-            <th>Tasks</th>
-            <th>Status</th>
+            <th>TASKS</th>
+            <th>STATUS</th>
         </thead>
         <tbody id="tBodyList">
 
         </tbody>
     </table>
+
 </body>
 
 </html>

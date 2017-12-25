@@ -26,7 +26,6 @@ $(document).ready(function() {
         xmlHttpRequest.onreadystatechange = function() {
             if (xmlHttpRequest.readyState === XMLHttpRequest.DONE) {
                 if (xmlHttpRequest.status === 200) {
-                    console.log(xmlHttpRequest.responseText);
                     notifyMe("Update task", "Task updated successfully");
                 } else {
                     console.error("This is a problem with the request");
@@ -38,22 +37,24 @@ $(document).ready(function() {
         xmlHttpRequest.send();
     });
 
-    // $("table").on("click", "tr", function() {
-    //     // get the clicked row id
-    //     var rowId = $(this).closest("tr").attr("id");
-    //     var row = document.getElementById(rowId);
+    $("table").on("click", "td", function() {
+        // get the clicked row id
+        var cellId = $(this).closest("td").attr("id");
 
-    //     prompt("Edit the text", row.children[1].innerHTML);
-    // });
+        if (typeof(cellId) !== "undefined" && cellId !== null) {
+            // get reference to the cell
+            var cell = document.getElementById(cellId);
+            // prompt the task text
+            prompt("Edit the text", cell.innerHTML);
+        }
+    });
 
     $("#search").keyup(function() {
         // get the text from the search box
         var searchText = document.getElementById("search").value;
 
-        // get the reference to the table
-        var tBodyList = document.getElementById("tBodyList");
-        // get the array of rows in the list
-        var rowArray = tBodyList.children;
+        // get the rows of tasks
+        var rowArray = getTaskRows();
         // find count of the rows
         var rowCount = rowArray.length;
 
@@ -69,7 +70,46 @@ $(document).ready(function() {
             }
         }
     });
+
+    $("#aboutButton").click(function() {
+        alert("Powered by HTML, CSS, JavaScript, NodeJS, Sambhaji, Version 0.1");
+    });
+
+    $("#filter").change(function() {
+        var mFilter = $("#filter").val();
+        // get the rows of tasks
+        var rowArray = getTaskRows();
+        // find count of the rows
+        var rowCount = rowArray.length;
+
+        // iterate over the array
+        for (var item = 0; item < rowCount; item++) {
+            // get the table cell containing the checkBox
+            var checkBoxCell = rowArray[item].children[2];
+            if (JSON.parse(checkBoxCell.children[0].checked) === true && (mFilter === "Done")) {
+                rowArray[item].style.display = "";
+            } else if (JSON.parse(checkBoxCell.children[0].checked) === false && (mFilter === "Pending")) {
+                rowArray[item].style.display = "";
+            } else if (mFilter === "All tasks") {
+                rowArray[item].style.display = "";
+            } else {
+                // hide the row, if text not matching
+                rowArray[item].style.display = "none";
+            }
+        }
+    });
 });
+
+/**
+ * function returning the rows from the DOM
+ * @returns {array} array of tasks row
+ */
+var getTaskRows = function() {
+    // get the reference to the table
+    var tBodyList = document.getElementById("tBodyList");
+    // get the array of rows in the list
+    return tBodyList.children;
+};
 
 /**
  * function changing the style of the row, depending on checkbox selction
@@ -173,7 +213,10 @@ function loadList(list) {
 
         // create the task cell
         var taskCell = document.createElement("td");
+        // set the task
         taskCell.innerHTML = data[node].task;
+        // set the taskId
+        taskCell.setAttribute("id", "task".concat(data[node].id));
 
         // set the task status style dependng on the 
         if (data[node].status === "1") {

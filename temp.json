@@ -422,8 +422,8 @@
     {
         "id": 61,
         "task": "Work on the score tool PDF sending feature. Send it to module programmers for checking.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/28/2017, 5:31:52 PM",
         "taskAddedDateStamp": null
     },
     {
@@ -892,7 +892,7 @@
         "id": 129,
         "task": "Training for team Himalayas on JIRA. Training to Nilesh on JIRA.",
         "status": "0",
-        "dateStamp": null,
+        "dateStamp": "12/18/2017, 11:33:32 AM",
         "taskAddedDateStamp": null
     },
     {
@@ -919,22 +919,22 @@
     {
         "id": 133,
         "task": "Work on the reverse calculations of ADA app. Send it to Frank, Dominik, Team 1.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/30/2017, 6:13:59 PM",
         "taskAddedDateStamp": null
     },
     {
         "id": 134,
         "task": "Work on the reverse calculations of ASEcho app. Send it to Frank, Dominik, Team 1.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "12/5/2017, 2:05:31 PM",
         "taskAddedDateStamp": null
     },
     {
         "id": 135,
         "task": "Review the design drafts of ASEcho app and ADA app with Nilesh. Send feedback to Frank and Dominik.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "12/5/2017, 2:06:30 PM",
         "taskAddedDateStamp": null
     },
     {
@@ -1353,8 +1353,8 @@
     {
         "id": 195,
         "task": "Make tracking excel sheet for all the apps. Start with ACC VASCD guideline",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/29/2017, 10:11:42 AM",
         "taskAddedDateStamp": null
     },
     {
@@ -1437,8 +1437,8 @@
     {
         "id": 207,
         "task": "Update the list of apps and status in the today page.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/21/2017, 4:42:12 PM",
         "taskAddedDateStamp": null
     },
     {
@@ -1458,15 +1458,15 @@
     {
         "id": 210,
         "task": "Discuss the Endocrine app tools with the web production team. Show them the excel sheet of guidelines.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/20/2017, 10:21:05 AM",
         "taskAddedDateStamp": null
     },
     {
         "id": 211,
         "task": "Add next guideline of DGK app in the product backlog",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/30/2017, 3:04:57 PM",
         "taskAddedDateStamp": null
     },
     {
@@ -1479,8 +1479,8 @@
     {
         "id": 213,
         "task": "Start writing the product backlog on board again. Take one board from North Pole.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/21/2017, 10:16:23 AM",
         "taskAddedDateStamp": null
     },
     {
@@ -1500,15 +1500,15 @@
     {
         "id": 216,
         "task": "Send the graphics and data for testing the essential messages to modules team. Discuss this with Gaurav and Deepak.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "12/8/2017, 11:51:52 AM",
         "taskAddedDateStamp": null
     },
     {
         "id": 217,
         "task": "Update the overtime for Deepak in the sheet. Make the OneDrive link for the overtime sheet. Enter Delay from Shantanu in the Delay sheet.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/21/2017, 5:45:04 PM",
         "taskAddedDateStamp": null
     },
     {
@@ -1521,8 +1521,8 @@
     {
         "id": 219,
         "task": "Send the tools results PDF for Nathalie's and Mariona's approval today.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/21/2017, 2:49:45 PM",
         "taskAddedDateStamp": null
     },
     {
@@ -1535,36 +1535,1352 @@
     {
         "id": 221,
         "task": "Read the ACC old and new app features, forward this list to Dominik and Frank.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/21/2017, 10:16:09 AM",
         "taskAddedDateStamp": null
     },
     {
         "id": 222,
         "task": "Analyse the Calendar POC for the ESC app",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/20/2017, 10:05:20 AM",
         "taskAddedDateStamp": null
     },
     {
         "id": 223,
         "task": "Check the algorithms made by Vishal.",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/24/2017, 12:06:12 PM",
         "taskAddedDateStamp": null
     },
     {
         "id": 224,
         "task": "Send the feedback to Vishal",
-        "status": "0",
-        "dateStamp": null,
+        "status": "1",
+        "dateStamp": "11/24/2017, 12:06:11 PM",
         "taskAddedDateStamp": null
     },
     {
         "id": 225,
         "task": "Work on the app planning with Nilesh. Add Pink post-its for the delayed apps. Include Ashish in the planning for the reverse calculations. Show the planning to Parag.",
-        "status": "0",
-        "dateStamp": "11/18/2017, 9:44:16 AM",
+        "status": "1",
+        "dateStamp": "11/22/2017, 10:16:51 AM",
         "taskAddedDateStamp": "11/18/2017, 8:55:09 AM"
+    },
+    {
+        "id": 226,
+        "task": "Send detailed questionnaire to Frank and Dominik on the ACR app, with some reverse calculations",
+        "status": "1",
+        "dateStamp": "11/30/2017, 6:14:11 PM",
+        "taskAddedDateStamp": "11/20/2017, 1:30:30 PM"
+    },
+    {
+        "id": 227,
+        "task": "Ask Nathalie, which app will be updated for the Diabetes info pocket? Send her the app names and the screenshots from iTunes or is this will be a new app?",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "11/20/2017, 1:46:55 PM"
+    },
+    {
+        "id": 228,
+        "task": "Send ESC GA feature requirements to Sylvia and Nathalie",
+        "status": "1",
+        "dateStamp": "11/20/2017, 2:38:37 PM",
+        "taskAddedDateStamp": "11/20/2017, 2:38:34 PM"
+    },
+    {
+        "id": 229,
+        "task": "Add Gmail ids from Constance, Marc, Nathalie and inform them accordingly.",
+        "status": "1",
+        "dateStamp": "11/20/2017, 6:38:27 PM",
+        "taskAddedDateStamp": "11/20/2017, 5:29:23 PM"
+    },
+    {
+        "id": 230,
+        "task": "Send ACC app status to Dominik, Request for profiles",
+        "status": "1",
+        "dateStamp": "11/21/2017, 10:15:57 AM",
+        "taskAddedDateStamp": "11/21/2017, 9:51:19 AM"
+    },
+    {
+        "id": 231,
+        "task": "Reply to Dominik on Endocrine app server update timeline",
+        "status": "1",
+        "dateStamp": "11/22/2017, 1:32:48 PM",
+        "taskAddedDateStamp": "11/21/2017, 11:34:02 AM"
+    },
+    {
+        "id": 232,
+        "task": "Discuss with Nathalie, Sylvia about the Deep links of ESC",
+        "status": "1",
+        "dateStamp": "12/14/2017, 12:02:41 PM",
+        "taskAddedDateStamp": "11/21/2017, 3:25:22 PM"
+    },
+    {
+        "id": 233,
+        "task": "Make the excel sheet for AHA app, next 8 plus 5 guidelines. Send email to Dominik and Frank on AHA app possible approaches",
+        "status": "1",
+        "dateStamp": "11/28/2017, 2:21:25 PM",
+        "taskAddedDateStamp": "11/21/2017, 6:14:31 PM"
+    },
+    {
+        "id": 234,
+        "task": "Send the requirements for the ADA app to Dominik. Send in an word file.",
+        "status": "1",
+        "dateStamp": "11/23/2017, 9:31:59 AM",
+        "taskAddedDateStamp": "11/22/2017, 10:09:23 AM"
+    },
+    {
+        "id": 235,
+        "task": "Discuss with programmers about the possible approaches for the next technical or server update of AHA app.",
+        "status": "1",
+        "dateStamp": "11/22/2017, 1:32:33 PM",
+        "taskAddedDateStamp": "11/22/2017, 10:14:37 AM"
+    },
+    {
+        "id": 236,
+        "task": "Make roadmap for the apps in excel. Share with Nilesh and Parag.",
+        "status": "1",
+        "dateStamp": "11/23/2017, 1:58:33 PM",
+        "taskAddedDateStamp": "11/22/2017, 10:15:39 AM"
+    },
+    {
+        "id": 237,
+        "task": "Discuss the STIKO app, QR code with Abhijeet and plan it accordingly. Send a plan to Julia and Mariona.",
+        "status": "1",
+        "dateStamp": "11/23/2017, 10:26:17 AM",
+        "taskAddedDateStamp": "11/23/2017, 9:43:15 AM"
+    },
+    {
+        "id": 238,
+        "task": "Send the list of Endocrine testers to programmers. Also upload this list on OneDrive. Share the link to production team.",
+        "status": "1",
+        "dateStamp": "11/23/2017, 10:44:08 AM",
+        "taskAddedDateStamp": "11/23/2017, 9:59:10 AM"
+    },
+    {
+        "id": 239,
+        "task": "Read the protocol from Philipp. Reply back to Philipp.",
+        "status": "1",
+        "dateStamp": "11/25/2017, 11:59:49 AM",
+        "taskAddedDateStamp": "11/23/2017, 10:00:44 AM"
+    },
+    {
+        "id": 240,
+        "task": "Provide the ESC app back to the production programmers.",
+        "status": "1",
+        "dateStamp": "11/23/2017, 10:43:58 AM",
+        "taskAddedDateStamp": "11/23/2017, 10:16:01 AM"
+    },
+    {
+        "id": 241,
+        "task": "Reply back to Dominik on Endocrine testers. Forward the list of testers to production programmers.",
+        "status": "1",
+        "dateStamp": "11/23/2017, 10:43:57 AM",
+        "taskAddedDateStamp": "11/23/2017, 10:43:53 AM"
+    },
+    {
+        "id": 242,
+        "task": "Add AHA app server update, 10 November and 14 November in the production statistics website",
+        "status": "1",
+        "dateStamp": "11/24/2017, 9:49:53 AM",
+        "taskAddedDateStamp": "11/23/2017, 12:37:03 PM"
+    },
+    {
+        "id": 243,
+        "task": "Skype call with John for ACC profiles at 2:05",
+        "status": "1",
+        "dateStamp": "11/23/2017, 4:48:50 PM",
+        "taskAddedDateStamp": "11/23/2017, 2:27:56 PM"
+    },
+    {
+        "id": 244,
+        "task": "Skype call with Carla on Rheumatologie app on the feedbacks",
+        "status": "1",
+        "dateStamp": "11/23/2017, 6:56:56 PM",
+        "taskAddedDateStamp": "11/23/2017, 2:28:19 PM"
+    },
+    {
+        "id": 245,
+        "task": "Update the today page with the latest status",
+        "status": "1",
+        "dateStamp": "11/23/2017, 5:11:18 PM",
+        "taskAddedDateStamp": "11/23/2017, 2:57:26 PM"
+    },
+    {
+        "id": 246,
+        "task": "Add DYSLIP guideline from DGK in the product backlog.",
+        "status": "1",
+        "dateStamp": "11/29/2017, 10:10:55 AM",
+        "taskAddedDateStamp": "11/24/2017, 9:35:31 AM"
+    },
+    {
+        "id": 247,
+        "task": "Discuss the DYSLIP guideline requirements with Shantanu, Soumya first on Monday, 27 November. Discuss the DYSLIP guideline during the backlog refinement with the development team.",
+        "status": "1",
+        "dateStamp": "11/28/2017, 10:13:19 AM",
+        "taskAddedDateStamp": "11/24/2017, 9:37:27 AM"
+    },
+    {
+        "id": 248,
+        "task": "Give the confirmation on the ESC guideline app, google analytics date to Pankaj.",
+        "status": "1",
+        "dateStamp": "11/24/2017, 10:28:47 AM",
+        "taskAddedDateStamp": "11/24/2017, 9:39:04 AM"
+    },
+    {
+        "id": 249,
+        "task": "Reply back to Frank on ASCO sponsor additions.",
+        "status": "1",
+        "dateStamp": "11/24/2017, 10:24:42 AM",
+        "taskAddedDateStamp": "11/24/2017, 10:24:38 AM"
+    },
+    {
+        "id": 250,
+        "task": "Discuss the ESC EM, Video manager impediment with Pranav. Solve it.",
+        "status": "1",
+        "dateStamp": "11/24/2017, 12:07:50 PM",
+        "taskAddedDateStamp": "11/24/2017, 12:07:47 PM"
+    },
+    {
+        "id": 251,
+        "task": "Check the ESC app GA dashboard and send a confirmation to Pankaj",
+        "status": "1",
+        "dateStamp": "11/24/2017, 2:10:11 PM",
+        "taskAddedDateStamp": "11/24/2017, 12:08:20 PM"
+    },
+    {
+        "id": 252,
+        "task": "Send the deadlines excel sheet around, explaining the sheet tabs.",
+        "status": "1",
+        "dateStamp": "12/5/2017, 2:05:51 PM",
+        "taskAddedDateStamp": "11/24/2017, 12:09:00 PM"
+    },
+    {
+        "id": 253,
+        "task": "Work on the planning board for next three weeks. Show to Nilesh",
+        "status": "1",
+        "dateStamp": "11/24/2017, 6:16:06 PM",
+        "taskAddedDateStamp": "11/24/2017, 12:16:07 PM"
+    },
+    {
+        "id": 254,
+        "task": "Interview of Snehal and Onkar",
+        "status": "1",
+        "dateStamp": "11/24/2017, 6:16:02 PM",
+        "taskAddedDateStamp": "11/24/2017, 6:15:58 PM"
+    },
+    {
+        "id": 255,
+        "task": "Send the Algorithm version 3.0 to Abhijeet, Tanmay. Also send the same algorithm version to Disha.",
+        "status": "1",
+        "dateStamp": "11/27/2017, 11:54:00 AM",
+        "taskAddedDateStamp": "11/26/2017, 11:18:45 AM"
+    },
+    {
+        "id": 256,
+        "task": "Check the QR code for the Windows version of the STIKO app with Pankaj",
+        "status": "1",
+        "dateStamp": "11/27/2017, 11:53:57 AM",
+        "taskAddedDateStamp": "11/27/2017, 9:51:24 AM"
+    },
+    {
+        "id": 257,
+        "task": "Reply to Sylvia on the ESMO app.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "11/27/2017, 9:52:17 AM"
+    },
+    {
+        "id": 258,
+        "task": "Work on the ESC tools list for the Tools results emailing features",
+        "status": "1",
+        "dateStamp": "12/14/2017, 10:43:58 AM",
+        "taskAddedDateStamp": "11/27/2017, 10:22:50 AM"
+    },
+    {
+        "id": 259,
+        "task": "Remind Constance of DGVS app. Remind Mariona of Diabetes Info pocket design draft. Ask Petra, when can we have the Diabetes info pocket data for uploading on CMS.",
+        "status": "1",
+        "dateStamp": "11/28/2017, 12:24:49 PM",
+        "taskAddedDateStamp": "11/27/2017, 11:53:53 AM"
+    },
+    {
+        "id": 260,
+        "task": "Check the redmine log hours to see if 144 hours are filled.",
+        "status": "1",
+        "dateStamp": "11/27/2017, 12:20:40 PM",
+        "taskAddedDateStamp": "11/27/2017, 12:20:34 PM"
+    },
+    {
+        "id": 261,
+        "task": "Check out Windows version of ESMO app contract with Sylvia",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "11/27/2017, 2:43:21 PM"
+    },
+    {
+        "id": 262,
+        "task": "Analyse the feedback from Carla for Rheumatologie app. Discuss the feedback with Gaurav and Akansha.",
+        "status": "1",
+        "dateStamp": "11/28/2017, 12:06:12 PM",
+        "taskAddedDateStamp": "11/27/2017, 6:26:26 PM"
+    },
+    {
+        "id": 263,
+        "task": "Send the EAU app for login approvals to Sylvia and Constance.",
+        "status": "1",
+        "dateStamp": "11/28/2017, 9:58:54 AM",
+        "taskAddedDateStamp": "11/28/2017, 9:58:49 AM"
+    },
+    {
+        "id": 264,
+        "task": "Add Android sales tool programming in the web research team product backlog.",
+        "status": "1",
+        "dateStamp": "11/29/2017, 4:41:41 PM",
+        "taskAddedDateStamp": "11/28/2017, 10:01:22 AM"
+    },
+    {
+        "id": 265,
+        "task": "Work on the reverse calculations of ACR app. Send it to Frank, Dominik, Team 1",
+        "status": "1",
+        "dateStamp": "11/30/2017, 6:14:10 PM",
+        "taskAddedDateStamp": "11/28/2017, 10:31:28 AM"
+    },
+    {
+        "id": 266,
+        "task": "Reply Dominik on AHA app review. Forward the crashing report to modules team.",
+        "status": "1",
+        "dateStamp": "11/28/2017, 12:05:59 PM",
+        "taskAddedDateStamp": "11/28/2017, 11:55:38 AM"
+    },
+    {
+        "id": 267,
+        "task": "Skype call with Dominik on AHA app, ACC app, Endocrine app",
+        "status": "1",
+        "dateStamp": "11/28/2017, 1:47:58 PM",
+        "taskAddedDateStamp": "11/28/2017, 1:47:53 PM"
+    },
+    {
+        "id": 268,
+        "task": "Send the planning board images to Parag.",
+        "status": "1",
+        "dateStamp": "11/28/2017, 5:20:29 PM",
+        "taskAddedDateStamp": "11/28/2017, 5:18:16 PM"
+    },
+    {
+        "id": 269,
+        "task": "Invite Antonie to test the EAU app.",
+        "status": "1",
+        "dateStamp": "11/29/2017, 10:10:28 AM",
+        "taskAddedDateStamp": "11/29/2017, 9:49:43 AM"
+    },
+    {
+        "id": 270,
+        "task": "Sprint review of team Himalaya, team Ayurveda. PBR for apps with both the teams.",
+        "status": "1",
+        "dateStamp": "11/29/2017, 3:39:48 PM",
+        "taskAddedDateStamp": "11/29/2017, 10:14:57 AM"
+    },
+    {
+        "id": 271,
+        "task": "Sprint review of team team Sahara. PBR of team Sahara.",
+        "status": "1",
+        "dateStamp": "11/29/2017, 3:39:46 PM",
+        "taskAddedDateStamp": "11/29/2017, 10:15:30 AM"
+    },
+    {
+        "id": 272,
+        "task": "Participate in the WSM for apps production",
+        "status": "1",
+        "dateStamp": "11/29/2017, 3:39:45 PM",
+        "taskAddedDateStamp": "11/29/2017, 10:15:52 AM"
+    },
+    {
+        "id": 273,
+        "task": "Sprint planning for team Ayurveda, team Himalaya, team Sahara.",
+        "status": "1",
+        "dateStamp": "11/29/2017, 3:39:44 PM",
+        "taskAddedDateStamp": "11/29/2017, 10:16:21 AM"
+    },
+    {
+        "id": 274,
+        "task": "Send the apps priority for this week for all the three teams.",
+        "status": "1",
+        "dateStamp": "11/29/2017, 6:00:31 PM",
+        "taskAddedDateStamp": "11/29/2017, 3:39:52 PM"
+    },
+    {
+        "id": 275,
+        "task": "Put the DANI app offline. Inform Parag, Nilesh.",
+        "status": "1",
+        "dateStamp": "11/29/2017, 5:56:21 PM",
+        "taskAddedDateStamp": "11/29/2017, 5:14:48 PM"
+    },
+    {
+        "id": 276,
+        "task": "Enter the DANI pocket offline in the production statistics website.",
+        "status": "1",
+        "dateStamp": "11/29/2017, 6:05:59 PM",
+        "taskAddedDateStamp": "11/29/2017, 6:05:54 PM"
+    },
+    {
+        "id": 277,
+        "task": "Discuss GA dashboard POC changes with Pankaj. Schedule a call with Nathalie. Add in the product backlog of web research",
+        "status": "1",
+        "dateStamp": "12/4/2017, 11:17:45 AM",
+        "taskAddedDateStamp": "11/30/2017, 9:49:06 AM"
+    },
+    {
+        "id": 278,
+        "task": "Send the planning board PDF to Parag.",
+        "status": "1",
+        "dateStamp": "11/30/2017, 2:14:19 PM",
+        "taskAddedDateStamp": "11/30/2017, 10:01:31 AM"
+    },
+    {
+        "id": 279,
+        "task": "Send email to Alex on deadlines from the excel sheet.",
+        "status": "1",
+        "dateStamp": "12/4/2017, 12:21:50 PM",
+        "taskAddedDateStamp": "11/30/2017, 10:04:21 AM"
+    },
+    {
+        "id": 280,
+        "task": "Update the AHA status sheet with next 5 guidelines.",
+        "status": "1",
+        "dateStamp": "11/30/2017, 3:12:45 PM",
+        "taskAddedDateStamp": "11/30/2017, 11:54:51 AM"
+    },
+    {
+        "id": 281,
+        "task": "Send the leave information email for 30 Nov, as Swati is on leave.",
+        "status": "1",
+        "dateStamp": "11/30/2017, 11:59:22 AM",
+        "taskAddedDateStamp": "11/30/2017, 11:59:15 AM"
+    },
+    {
+        "id": 282,
+        "task": "Sen leave info to Parag. Send leave information to all the team mates.",
+        "status": "1",
+        "dateStamp": "11/30/2017, 6:08:33 PM",
+        "taskAddedDateStamp": "11/30/2017, 2:10:23 PM"
+    },
+    {
+        "id": 283,
+        "task": "Meeting with Constance at 4:30 PM on DGVS app requirements",
+        "status": "1",
+        "dateStamp": "11/30/2017, 5:13:32 PM",
+        "taskAddedDateStamp": "11/30/2017, 4:05:57 PM"
+    },
+    {
+        "id": 284,
+        "task": "Make a task list for Cecilia, get the sheet approved from Pranav, Deepak. Send it to Parag by Tuesday, 5 December",
+        "status": "1",
+        "dateStamp": "12/5/2017, 3:32:52 PM",
+        "taskAddedDateStamp": "12/4/2017, 9:33:11 AM"
+    },
+    {
+        "id": 285,
+        "task": "Reply to Sylvia's email on ESC app.",
+        "status": "1",
+        "dateStamp": "12/4/2017, 10:05:23 AM",
+        "taskAddedDateStamp": "12/4/2017, 10:05:18 AM"
+    },
+    {
+        "id": 286,
+        "task": "Send ESC app tools to Vishal for uploading on ITD.",
+        "status": "1",
+        "dateStamp": "12/4/2017, 2:32:42 PM",
+        "taskAddedDateStamp": "12/4/2017, 11:18:29 AM"
+    },
+    {
+        "id": 287,
+        "task": "Add DGVS app issues in the product backlog. Send email to Constance for issues discussed during the Skype call. Ask her if any more issues are there?",
+        "status": "1",
+        "dateStamp": "12/5/2017, 2:50:55 PM",
+        "taskAddedDateStamp": "12/4/2017, 11:23:34 AM"
+    },
+    {
+        "id": 288,
+        "task": "Add DGK app, server update in the product backlog for updating DEAS5368_3.1.1.0 and behavioural file.",
+        "status": "1",
+        "dateStamp": "12/4/2017, 3:56:37 PM",
+        "taskAddedDateStamp": "12/4/2017, 11:35:13 AM"
+    },
+    {
+        "id": 289,
+        "task": "Have a look at the overtime sheet from Swati. Reply back to her.",
+        "status": "1",
+        "dateStamp": "12/4/2017, 2:34:27 PM",
+        "taskAddedDateStamp": "12/4/2017, 1:13:06 PM"
+    },
+    {
+        "id": 290,
+        "task": "Add Shantanu Patil delay of 3 hours in the delay sheet.",
+        "status": "1",
+        "dateStamp": "12/4/2017, 5:58:49 PM",
+        "taskAddedDateStamp": "12/4/2017, 1:21:47 PM"
+    },
+    {
+        "id": 291,
+        "task": "Add DGK app server update in production statistics website",
+        "status": "1",
+        "dateStamp": "12/4/2017, 4:06:09 PM",
+        "taskAddedDateStamp": "12/4/2017, 3:52:43 PM"
+    },
+    {
+        "id": 292,
+        "task": "Push all the committed code on GitLab for interactive tools master",
+        "status": "1",
+        "dateStamp": "12/4/2017, 3:56:31 PM",
+        "taskAddedDateStamp": "12/4/2017, 3:53:27 PM"
+    },
+    {
+        "id": 293,
+        "task": "Remind Anja on COPD pocket app. Ask her about the status of content.",
+        "status": "1",
+        "dateStamp": "12/4/2017, 5:58:40 PM",
+        "taskAddedDateStamp": "12/4/2017, 4:37:02 PM"
+    },
+    {
+        "id": 294,
+        "task": "Forward the Diabetes info pocket content images changes to Deepak. Ask him if these changes are clear.",
+        "status": "1",
+        "dateStamp": "12/4/2017, 4:58:54 PM",
+        "taskAddedDateStamp": "12/4/2017, 4:38:32 PM"
+    },
+    {
+        "id": 295,
+        "task": "Show the ESC apps tools list to Piyush. Ask him about the tools from interactive_000014... series?",
+        "status": "1",
+        "dateStamp": "12/5/2017, 11:41:58 AM",
+        "taskAddedDateStamp": "12/4/2017, 4:39:52 PM"
+    },
+    {
+        "id": 296,
+        "task": "Product backlog refinement with the production team, after morning standup.",
+        "status": "1",
+        "dateStamp": "12/5/2017, 11:34:10 AM",
+        "taskAddedDateStamp": "12/5/2017, 10:07:56 AM"
+    },
+    {
+        "id": 297,
+        "task": "Send list of US client apps whose data is on AWS to Kapil,",
+        "status": "1",
+        "dateStamp": "12/5/2017, 1:12:52 PM",
+        "taskAddedDateStamp": "12/5/2017, 11:41:47 AM"
+    },
+    {
+        "id": 298,
+        "task": "Send email to John for ACC app, version name and version code for next technical update",
+        "status": "1",
+        "dateStamp": "12/14/2017, 10:43:55 AM",
+        "taskAddedDateStamp": "12/5/2017, 11:46:29 AM"
+    },
+    {
+        "id": 299,
+        "task": "Send email to Parag, what apps we can give to Cecilia for 20,21,22, 27, 28 and 29 December",
+        "status": "1",
+        "dateStamp": "12/5/2017, 3:32:45 PM",
+        "taskAddedDateStamp": "12/5/2017, 11:52:40 AM"
+    },
+    {
+        "id": 300,
+        "task": "Discuss issues with Carla on Rheumatologie home screen.",
+        "status": "1",
+        "dateStamp": "12/5/2017, 4:31:56 PM",
+        "taskAddedDateStamp": "12/5/2017, 12:16:32 PM"
+    },
+    {
+        "id": 301,
+        "task": "Send COPD pocket Google Analytics disclaimer text to Nathalie for editing to adapt for Adobe analytics.",
+        "status": "1",
+        "dateStamp": "12/5/2017, 2:25:27 PM",
+        "taskAddedDateStamp": "12/5/2017, 12:44:07 PM"
+    },
+    {
+        "id": 302,
+        "task": "Send the ESC web version, About page to Nathalie. Get the word file from Akash.",
+        "status": "1",
+        "dateStamp": "12/5/2017, 2:48:08 PM",
+        "taskAddedDateStamp": "12/5/2017, 12:53:18 PM"
+    },
+    {
+        "id": 303,
+        "task": "Send the Constance feedback on DGVS app, CMS viewer app to web production graphics team etc.",
+        "status": "1",
+        "dateStamp": "12/5/2017, 5:11:26 PM",
+        "taskAddedDateStamp": "12/5/2017, 2:50:10 PM"
+    },
+    {
+        "id": 304,
+        "task": "Send two algorithms from DGVS app to Constance on Amazon S3.",
+        "status": "1",
+        "dateStamp": "12/5/2017, 4:02:31 PM",
+        "taskAddedDateStamp": "12/5/2017, 2:50:47 PM"
+    },
+    {
+        "id": 305,
+        "task": "Send the flip images from the DGVS, GI Blutung guideline to Constance. Write email to Pranav.",
+        "status": "1",
+        "dateStamp": "12/5/2017, 4:02:32 PM",
+        "taskAddedDateStamp": "12/5/2017, 3:17:52 PM"
+    },
+    {
+        "id": 306,
+        "task": "Skype call with Carla on Rheumatologie app.",
+        "status": "1",
+        "dateStamp": "12/5/2017, 4:31:51 PM",
+        "taskAddedDateStamp": "12/5/2017, 4:02:53 PM"
+    },
+    {
+        "id": 307,
+        "task": "Send screenshots of RA home screen to Carla",
+        "status": "1",
+        "dateStamp": "12/5/2017, 6:40:31 PM",
+        "taskAddedDateStamp": "12/5/2017, 6:40:28 PM"
+    },
+    {
+        "id": 308,
+        "task": "Get in touch with Web research team for push notifications and news tool. Reply back to Sylvia",
+        "status": "1",
+        "dateStamp": "12/7/2017, 11:30:14 AM",
+        "taskAddedDateStamp": "12/5/2017, 6:40:54 PM"
+    },
+    {
+        "id": 309,
+        "task": "Add Alzheimer design changes in the product backlog of web research team",
+        "status": "1",
+        "dateStamp": "12/6/2017, 3:41:48 PM",
+        "taskAddedDateStamp": "12/6/2017, 9:24:58 AM"
+    },
+    {
+        "id": 310,
+        "task": "Change the dates for the AHA app server updates",
+        "status": "1",
+        "dateStamp": "12/6/2017, 10:23:08 AM",
+        "taskAddedDateStamp": "12/6/2017, 9:29:26 AM"
+    },
+    {
+        "id": 311,
+        "task": "Sprint review of Team Ayurveda, Team Sahara, Team Himalaya, Team Aryabhatta",
+        "status": "1",
+        "dateStamp": "12/6/2017, 3:41:44 PM",
+        "taskAddedDateStamp": "12/6/2017, 10:25:52 AM"
+    },
+    {
+        "id": 312,
+        "task": "Participate in WSM app production",
+        "status": "1",
+        "dateStamp": "12/6/2017, 3:41:44 PM",
+        "taskAddedDateStamp": "12/6/2017, 10:26:04 AM"
+    },
+    {
+        "id": 313,
+        "task": "Sprint planning of Team Ayurveda, Team Sahara, Team Himalaya, Team Aryabhatta",
+        "status": "1",
+        "dateStamp": "12/6/2017, 3:49:24 PM",
+        "taskAddedDateStamp": "12/6/2017, 10:27:02 AM"
+    },
+    {
+        "id": 314,
+        "task": "Send email to Sylvia for ESC videos. We need it till end of this week.",
+        "status": "1",
+        "dateStamp": "12/6/2017, 5:08:08 PM",
+        "taskAddedDateStamp": "12/6/2017, 3:42:18 PM"
+    },
+    {
+        "id": 315,
+        "task": "Reply to Sylvia's email from ESC app",
+        "status": "1",
+        "dateStamp": "12/6/2017, 5:07:31 PM",
+        "taskAddedDateStamp": "12/6/2017, 3:42:36 PM"
+    },
+    {
+        "id": 316,
+        "task": "Forward the ASEcho app design draft to production programming team.",
+        "status": "1",
+        "dateStamp": "12/6/2017, 3:45:52 PM",
+        "taskAddedDateStamp": "12/6/2017, 3:44:05 PM"
+    },
+    {
+        "id": 317,
+        "task": "Add ADA app detailed status and dates in the app pipe master excel sheet.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/6/2017, 3:47:12 PM"
+    },
+    {
+        "id": 318,
+        "task": "Add ASEcho app detailed status and dates in the app pipe master excel sheet.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/6/2017, 3:47:24 PM"
+    },
+    {
+        "id": 319,
+        "task": "Send apps priority list to all the three teams",
+        "status": "1",
+        "dateStamp": "12/6/2017, 6:22:45 PM",
+        "taskAddedDateStamp": "12/6/2017, 3:49:15 PM"
+    },
+    {
+        "id": 320,
+        "task": "Forward the ESC app feedbacks received from the Rahul to the programming team. Touch Harshit and Piyush on this.",
+        "status": "1",
+        "dateStamp": "12/6/2017, 4:30:42 PM",
+        "taskAddedDateStamp": "12/6/2017, 3:59:20 PM"
+    },
+    {
+        "id": 321,
+        "task": "Send EAU app, GA dates to Pankaj.",
+        "status": "1",
+        "dateStamp": "12/6/2017, 4:47:58 PM",
+        "taskAddedDateStamp": "12/6/2017, 4:35:27 PM"
+    },
+    {
+        "id": 322,
+        "task": "Send the Endocrine app backup to production programmers",
+        "status": "1",
+        "dateStamp": "12/6/2017, 5:24:05 PM",
+        "taskAddedDateStamp": "12/6/2017, 4:40:24 PM"
+    },
+    {
+        "id": 323,
+        "task": "Send ESC app, version name to Harshit and Piyush",
+        "status": "1",
+        "dateStamp": "12/18/2017, 11:54:04 AM",
+        "taskAddedDateStamp": "12/6/2017, 4:58:13 PM"
+    },
+    {
+        "id": 324,
+        "task": "Update the today page with WSM apps.",
+        "status": "1",
+        "dateStamp": "12/6/2017, 6:22:49 PM",
+        "taskAddedDateStamp": "12/6/2017, 6:03:51 PM"
+    },
+    {
+        "id": 325,
+        "task": "Send COPD pocket warning email to Shaishav.",
+        "status": "1",
+        "dateStamp": "12/7/2017, 6:07:42 PM",
+        "taskAddedDateStamp": "12/7/2017, 10:33:19 AM"
+    },
+    {
+        "id": 326,
+        "task": "Add DGK app, flip images in the product backlog",
+        "status": "1",
+        "dateStamp": "12/8/2017, 12:36:01 PM",
+        "taskAddedDateStamp": "12/7/2017, 11:43:27 AM"
+    },
+    {
+        "id": 327,
+        "task": "Remind Sylvia on the ESC app videos downloadable links.",
+        "status": "1",
+        "dateStamp": "12/12/2017, 9:40:46 AM",
+        "taskAddedDateStamp": "12/7/2017, 11:43:53 AM"
+    },
+    {
+        "id": 328,
+        "task": "Write to Constance on Android version of CMS Viewer app",
+        "status": "1",
+        "dateStamp": "12/7/2017, 2:57:58 PM",
+        "taskAddedDateStamp": "12/7/2017, 1:09:55 PM"
+    },
+    {
+        "id": 329,
+        "task": "Send the home screen screenshots to Carla for Rheumatologie app",
+        "status": "1",
+        "dateStamp": "12/7/2017, 3:02:06 PM",
+        "taskAddedDateStamp": "12/7/2017, 2:43:35 PM"
+    },
+    {
+        "id": 330,
+        "task": "Send the links for two tools for GI blutung tools. Send email to Constance.",
+        "status": "1",
+        "dateStamp": "12/7/2017, 6:07:28 PM",
+        "taskAddedDateStamp": "12/7/2017, 2:59:00 PM"
+    },
+    {
+        "id": 331,
+        "task": "Check the Android version of Rheumatologie app for changes done.",
+        "status": "1",
+        "dateStamp": "12/7/2017, 6:07:26 PM",
+        "taskAddedDateStamp": "12/7/2017, 3:20:43 PM"
+    },
+    {
+        "id": 332,
+        "task": "Check the iOS version of the Rheumatologie app.",
+        "status": "1",
+        "dateStamp": "12/7/2017, 5:35:43 PM",
+        "taskAddedDateStamp": "12/7/2017, 5:35:39 PM"
+    },
+    {
+        "id": 333,
+        "task": "Work with Nilesh to plan for next sprint, 13 Dec-20 Dec.",
+        "status": "1",
+        "dateStamp": "12/8/2017, 12:35:33 PM",
+        "taskAddedDateStamp": "12/7/2017, 6:18:39 PM"
+    },
+    {
+        "id": 334,
+        "task": "Work on the active users issue in the Google Analytics. Discuss with Pankaj.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/7/2017, 6:38:16 PM"
+    },
+    {
+        "id": 335,
+        "task": "Send two tools from DGVS app to Constance. Upload algos and send links to Constance.",
+        "status": "1",
+        "dateStamp": "12/8/2017, 11:47:59 AM",
+        "taskAddedDateStamp": "12/8/2017, 9:36:27 AM"
+    },
+    {
+        "id": 336,
+        "task": "Send algorithm feedback tanmay.",
+        "status": "1",
+        "dateStamp": "12/8/2017, 11:47:58 AM",
+        "taskAddedDateStamp": "12/8/2017, 11:33:08 AM"
+    },
+    {
+        "id": 337,
+        "task": "Analyse the changes sent by Anja. Skype call with Anja at 2:30 PM",
+        "status": "1",
+        "dateStamp": "12/8/2017, 4:12:49 PM",
+        "taskAddedDateStamp": "12/8/2017, 1:16:25 PM"
+    },
+    {
+        "id": 338,
+        "task": "Update the AHA app, Endocrine app, ADA app status",
+        "status": "1",
+        "dateStamp": "12/15/2017, 9:53:38 AM",
+        "taskAddedDateStamp": "12/8/2017, 2:17:06 PM"
+    },
+    {
+        "id": 339,
+        "task": "Send Adobe analytics screenshot to Dominik and Frank",
+        "status": "1",
+        "dateStamp": "12/8/2017, 5:43:32 PM",
+        "taskAddedDateStamp": "12/8/2017, 5:27:59 PM"
+    },
+    {
+        "id": 340,
+        "task": "Solve the bug in the scoreFunctionsToogle. Send the tools to Piyush and Vishal.",
+        "status": "1",
+        "dateStamp": "12/8/2017, 5:32:23 PM",
+        "taskAddedDateStamp": "12/8/2017, 5:28:30 PM"
+    },
+    {
+        "id": 341,
+        "task": "Work on the filter for tasks in to-do-list",
+        "status": "1",
+        "dateStamp": "12/11/2017, 8:28:58 AM",
+        "taskAddedDateStamp": "12/9/2017, 9:34:20 PM"
+    },
+    {
+        "id": 342,
+        "task": "Update the App pipe master, and inform Frank about it.",
+        "status": "1",
+        "dateStamp": "12/12/2017, 10:28:00 AM",
+        "taskAddedDateStamp": "12/12/2017, 9:42:07 AM"
+    },
+    {
+        "id": 343,
+        "task": "Product backlog refinement with the development team.",
+        "status": "1",
+        "dateStamp": "12/12/2017, 11:43:49 AM",
+        "taskAddedDateStamp": "12/12/2017, 9:57:07 AM"
+    },
+    {
+        "id": 344,
+        "task": "Send AHA Android app backup to Piyush.",
+        "status": "1",
+        "dateStamp": "12/12/2017, 10:24:22 AM",
+        "taskAddedDateStamp": "12/12/2017, 10:17:06 AM"
+    },
+    {
+        "id": 345,
+        "task": "Product backlog refinement with web research team",
+        "status": "1",
+        "dateStamp": "12/13/2017, 4:48:09 PM",
+        "taskAddedDateStamp": "12/12/2017, 11:44:09 AM"
+    },
+    {
+        "id": 346,
+        "task": "Write email to constance on Leber guideline graphics, baby default, static images",
+        "status": "1",
+        "dateStamp": "12/12/2017, 1:06:19 PM",
+        "taskAddedDateStamp": "12/12/2017, 11:57:39 AM"
+    },
+    {
+        "id": 347,
+        "task": "Send app efforts to Parag for ADA, ACR, ASEcho app, DGVS app",
+        "status": "1",
+        "dateStamp": "12/12/2017, 3:11:05 PM",
+        "taskAddedDateStamp": "12/12/2017, 3:08:48 PM"
+    },
+    {
+        "id": 348,
+        "task": "Send DGVS app, splash screen screenshots to Constance",
+        "status": "1",
+        "dateStamp": "12/12/2017, 6:28:41 PM",
+        "taskAddedDateStamp": "12/12/2017, 3:52:20 PM"
+    },
+    {
+        "id": 349,
+        "task": "Forward DGK algorithm to Pranav",
+        "status": "1",
+        "dateStamp": "12/12/2017, 4:03:44 PM",
+        "taskAddedDateStamp": "12/12/2017, 4:02:25 PM"
+    },
+    {
+        "id": 350,
+        "task": "Sprint review of team Aryabhatta, Sahara, Ayurveda, himalaya",
+        "status": "1",
+        "dateStamp": "12/13/2017, 1:38:30 PM",
+        "taskAddedDateStamp": "12/13/2017, 9:35:42 AM"
+    },
+    {
+        "id": 351,
+        "task": "Sprint planing of team Aryabhatta, Sahara, Ayurveda, himalaya",
+        "status": "1",
+        "dateStamp": "12/13/2017, 4:48:02 PM",
+        "taskAddedDateStamp": "12/13/2017, 9:36:11 AM"
+    },
+    {
+        "id": 352,
+        "task": "Participate in the WSM-app production",
+        "status": "1",
+        "dateStamp": "12/13/2017, 1:38:26 PM",
+        "taskAddedDateStamp": "12/13/2017, 9:44:07 AM"
+    },
+    {
+        "id": 353,
+        "task": "Discuss Endocrine app server update issue with Dominik",
+        "status": "1",
+        "dateStamp": "12/13/2017, 1:38:23 PM",
+        "taskAddedDateStamp": "12/13/2017, 9:44:33 AM"
+    },
+    {
+        "id": 354,
+        "task": "Send email to Sandra, Nana, Bettina, Nathalie on DGK app, sponsor slider expiry date.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/13/2017, 10:17:47 AM"
+    },
+    {
+        "id": 355,
+        "task": "Get in touch with Harshit for EACVI app URL scheme. Check in the ESC online app, show it to Harshit.",
+        "status": "1",
+        "dateStamp": "12/14/2017, 10:43:39 AM",
+        "taskAddedDateStamp": "12/13/2017, 10:18:55 AM"
+    },
+    {
+        "id": 356,
+        "task": "Send Rheumatologie app to Carla, inform her.",
+        "status": "1",
+        "dateStamp": "12/13/2017, 4:50:56 PM",
+        "taskAddedDateStamp": "12/13/2017, 1:31:47 PM"
+    },
+    {
+        "id": 357,
+        "task": "Send the Amyloidosis app, estimates to Dominik and Frank for server and technical updates. Suggest to give a technical update.",
+        "status": "1",
+        "dateStamp": "12/13/2017, 5:57:46 PM",
+        "taskAddedDateStamp": "12/13/2017, 1:39:22 PM"
+    },
+    {
+        "id": 358,
+        "task": "Plan for Amyloidosis app overtime planning. Who all can work on the Amyloidosis app. Discuss with Parag on 14 Dec 2017.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/13/2017, 4:18:10 PM"
+    },
+    {
+        "id": 359,
+        "task": "Inform Dominik about the server update testing status.",
+        "status": "1",
+        "dateStamp": "12/13/2017, 6:49:00 PM",
+        "taskAddedDateStamp": "12/13/2017, 4:37:49 PM"
+    },
+    {
+        "id": 360,
+        "task": "Send the apps priority of this sprint to all the teams.",
+        "status": "1",
+        "dateStamp": "12/13/2017, 6:48:59 PM",
+        "taskAddedDateStamp": "12/13/2017, 4:53:52 PM"
+    },
+    {
+        "id": 361,
+        "task": "Send screenshot to Dominik for testflight invitation email",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/13/2017, 6:48:52 PM"
+    },
+    {
+        "id": 362,
+        "task": "Work on the interactive-2.2.css for scores. Discuss with Disha.",
+        "status": "1",
+        "dateStamp": "12/14/2017, 10:05:52 AM",
+        "taskAddedDateStamp": "12/13/2017, 6:49:31 PM"
+    },
+    {
+        "id": 363,
+        "task": "Send the CMS access of all the guidelines to Constance. Prepare the list of apps for Constance for confirmation.",
+        "status": "1",
+        "dateStamp": "12/21/2017, 4:23:42 PM",
+        "taskAddedDateStamp": "12/13/2017, 6:57:22 PM"
+    },
+    {
+        "id": 364,
+        "task": "Work on tool no 284 and 1454 and send it to Vishal for uploading.",
+        "status": "1",
+        "dateStamp": "12/14/2017, 10:29:31 AM",
+        "taskAddedDateStamp": "12/14/2017, 9:45:07 AM"
+    },
+    {
+        "id": 365,
+        "task": "Look at the images issue from Dominik. Discuss with Pranav.",
+        "status": "1",
+        "dateStamp": "12/14/2017, 12:02:04 PM",
+        "taskAddedDateStamp": "12/14/2017, 10:06:19 AM"
+    },
+    {
+        "id": 366,
+        "task": "Update the today page with WSM apps.",
+        "status": "1",
+        "dateStamp": "12/14/2017, 12:52:52 PM",
+        "taskAddedDateStamp": "12/14/2017, 12:13:47 PM"
+    },
+    {
+        "id": 367,
+        "task": "Please check whether in the Redmine, whether all the projects and their deadlines are correctly entered.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/14/2017, 12:15:13 PM"
+    },
+    {
+        "id": 368,
+        "task": "Inform Bettina about the next technical update of DGK app.",
+        "status": "1",
+        "dateStamp": "12/14/2017, 12:53:26 PM",
+        "taskAddedDateStamp": "12/14/2017, 12:52:46 PM"
+    },
+    {
+        "id": 369,
+        "task": "Send the screenshots to Dominik after the image issue is solved in prev. in stroke women.",
+        "status": "1",
+        "dateStamp": "12/14/2017, 6:20:42 PM",
+        "taskAddedDateStamp": "12/14/2017, 4:18:46 PM"
+    },
+    {
+        "id": 370,
+        "task": "Inform carla that we have renamed the Rheumatologie app. Please send her the screenshot.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 9:18:56 AM",
+        "taskAddedDateStamp": "12/14/2017, 6:13:23 PM"
+    },
+    {
+        "id": 371,
+        "task": "Participate in the elephant meeting with Parag at 11:00 AM",
+        "status": "1",
+        "dateStamp": "12/16/2017, 8:50:16 AM",
+        "taskAddedDateStamp": "12/14/2017, 6:13:47 PM"
+    },
+    {
+        "id": 372,
+        "task": "Adhoc meeting with Parag at 4:30,",
+        "status": "1",
+        "dateStamp": "12/14/2017, 6:20:43 PM",
+        "taskAddedDateStamp": "12/14/2017, 6:20:38 PM"
+    },
+    {
+        "id": 373,
+        "task": "Discuss Endocrine app with Parag. DIscuss with Shrinath, if Behaviour file update will solve the Wrong popup and green color download screen issue.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 9:19:03 AM",
+        "taskAddedDateStamp": "12/15/2017, 10:09:13 AM"
+    },
+    {
+        "id": 374,
+        "task": "Create new Gmail account for ADA app. Send requirements to Frank, Dominik.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 10:27:56 AM",
+        "taskAddedDateStamp": "12/18/2017, 9:19:40 AM"
+    },
+    {
+        "id": 375,
+        "task": "Create new Gmail account for ASEcho app. Send requirements to Frank, Dominik.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 10:27:55 AM",
+        "taskAddedDateStamp": "12/18/2017, 9:19:51 AM"
+    },
+    {
+        "id": 376,
+        "task": "Create new Gmail account for ACR app. Send requirements to Frank, Dominik.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 10:27:54 AM",
+        "taskAddedDateStamp": "12/18/2017, 9:20:00 AM"
+    },
+    {
+        "id": 377,
+        "task": "Get the graphics timing from Pranav and fill in the excel sheet. Send this excel sheet to Parag. Please make rows for total hours below.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 4:11:35 PM",
+        "taskAddedDateStamp": "12/18/2017, 10:06:24 AM"
+    },
+    {
+        "id": 378,
+        "task": "Send the changes from COPD pocket to Shrinath and Aditya. Meet to explain all the changes.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 10:59:32 AM",
+        "taskAddedDateStamp": "12/18/2017, 10:29:10 AM"
+    },
+    {
+        "id": 379,
+        "task": "Forward the feedback on client dashboard to web team from Sylvia.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 10:59:30 AM",
+        "taskAddedDateStamp": "12/18/2017, 10:42:24 AM"
+    },
+    {
+        "id": 380,
+        "task": "Work on the planning boards for next two weeks. 20-27, 27-3 Jan 2018",
+        "status": "1",
+        "dateStamp": "12/21/2017, 4:23:28 PM",
+        "taskAddedDateStamp": "12/18/2017, 11:16:16 AM"
+    },
+    {
+        "id": 381,
+        "task": "Send request to Abhijeet to send CMS access to Constance, Nathalie",
+        "status": "1",
+        "dateStamp": "12/18/2017, 11:32:56 AM",
+        "taskAddedDateStamp": "12/18/2017, 11:32:53 AM"
+    },
+    {
+        "id": 382,
+        "task": "Update the production statistics website with DGK app, server update- 2 times.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 4:29:18 PM",
+        "taskAddedDateStamp": "12/18/2017, 1:01:59 PM"
+    },
+    {
+        "id": 383,
+        "task": "Reply back to Dominik on ASCO Adobe analytics. Request modules team to send a reply.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 3:39:52 PM",
+        "taskAddedDateStamp": "12/18/2017, 1:10:40 PM"
+    },
+    {
+        "id": 384,
+        "task": "Send the apps estimation sheet to all the teams.",
+        "status": "1",
+        "dateStamp": "12/18/2017, 6:04:39 PM",
+        "taskAddedDateStamp": "12/18/2017, 4:27:59 PM"
+    },
+    {
+        "id": 385,
+        "task": "Skype call with Vaclav, for group leads and apps estimations",
+        "status": "1",
+        "dateStamp": "12/18/2017, 6:04:40 PM",
+        "taskAddedDateStamp": "12/18/2017, 4:31:46 PM"
+    },
+    {
+        "id": 386,
+        "task": "Send the calendar template to team India.",
+        "status": "1",
+        "dateStamp": "12/19/2017, 5:40:51 PM",
+        "taskAddedDateStamp": "12/18/2017, 6:17:26 PM"
+    },
+    {
+        "id": 387,
+        "task": "Discuss the delivery date of Endocrine app with the team. Send the estimated date to Dominik.",
+        "status": "1",
+        "dateStamp": "12/19/2017, 3:28:31 PM",
+        "taskAddedDateStamp": "12/19/2017, 9:56:29 AM"
+    },
+    {
+        "id": 388,
+        "task": "Send the abbreviations file sample to Ben. Send the machine readable excel to Pranav, Deepak.",
+        "status": "1",
+        "dateStamp": "12/19/2017, 11:50:06 AM",
+        "taskAddedDateStamp": "12/19/2017, 11:29:47 AM"
+    },
+    {
+        "id": 389,
+        "task": "Send back the ACR app timeline confirmation to Dominik.",
+        "status": "1",
+        "dateStamp": "12/19/2017, 6:06:46 PM",
+        "taskAddedDateStamp": "12/19/2017, 2:19:24 PM"
+    },
+    {
+        "id": 390,
+        "task": "Send Amyloidosis app abbreviation file to Gaurav",
+        "status": "1",
+        "dateStamp": "12/19/2017, 2:47:18 PM",
+        "taskAddedDateStamp": "12/19/2017, 2:27:57 PM"
+    },
+    {
+        "id": 391,
+        "task": "Send Endocrine app credentials to Dominik",
+        "status": "1",
+        "dateStamp": "12/19/2017, 2:37:29 PM",
+        "taskAddedDateStamp": "12/19/2017, 2:37:25 PM"
+    },
+    {
+        "id": 392,
+        "task": "Update the AHA app status on one drive.",
+        "status": "1",
+        "dateStamp": "12/19/2017, 5:41:24 PM",
+        "taskAddedDateStamp": "12/19/2017, 2:42:30 PM"
+    },
+    {
+        "id": 393,
+        "task": "Meeting with Mariona on ADA app and Cecilias tasks",
+        "status": "1",
+        "dateStamp": "12/19/2017, 6:24:23 PM",
+        "taskAddedDateStamp": "12/19/2017, 6:24:20 PM"
+    },
+    {
+        "id": 394,
+        "task": "eating bhaji",
+        "status": "1",
+        "dateStamp": "12/20/2017, 9:43:12 AM",
+        "taskAddedDateStamp": "12/20/2017, 9:42:49 AM"
+    },
+    {
+        "id": 395,
+        "task": "Send Endocrine Android app to Dominik. Reply to Dominik on Endocrine CMS viewer app.",
+        "status": "1",
+        "dateStamp": "12/21/2017, 4:23:21 PM",
+        "taskAddedDateStamp": "12/20/2017, 10:31:45 AM"
+    },
+    {
+        "id": 396,
+        "task": "Reply back to Petra and Anja on COPD pocket app. Ask Shaishav to help in checking adobe analytics.",
+        "status": "1",
+        "dateStamp": "12/21/2017, 9:39:21 AM",
+        "taskAddedDateStamp": "12/20/2017, 10:32:43 AM"
+    },
+    {
+        "id": 397,
+        "task": "Inform Dominik about the AHA app uploaded on testflight. Ask for server update, online confirmation.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/20/2017, 11:39:37 AM"
+    },
+    {
+        "id": 398,
+        "task": "Check the ADA app, iTunes, Android access with Nilesh. Send the documents for creating IAM user, GA user to Dominik.",
+        "status": "1",
+        "dateStamp": "12/21/2017, 10:01:48 AM",
+        "taskAddedDateStamp": "12/20/2017, 11:46:03 AM"
+    },
+    {
+        "id": 399,
+        "task": "Take a backup of your daily time logs from Redmine software.",
+        "status": "1",
+        "dateStamp": "12/20/2017, 3:44:25 PM",
+        "taskAddedDateStamp": "12/20/2017, 12:19:59 PM"
+    },
+    {
+        "id": 400,
+        "task": "Send the AHA app approval dates to Dominik. (3Jan, 5Jan)",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/20/2017, 3:45:30 PM"
+    },
+    {
+        "id": 401,
+        "task": "Send Endocrine app testers list to Shrinath.",
+        "status": "1",
+        "dateStamp": "12/20/2017, 4:03:56 PM",
+        "taskAddedDateStamp": "12/20/2017, 3:46:16 PM"
+    },
+    {
+        "id": 402,
+        "task": "Send COPD pocket GA privacy policy email to Nathalie.",
+        "status": "1",
+        "dateStamp": "12/20/2017, 3:55:03 PM",
+        "taskAddedDateStamp": "12/20/2017, 3:46:58 PM"
+    },
+    {
+        "id": 403,
+        "task": "Accept invitation for ADA app, before it expires. Notify Dominik and Nilesh.",
+        "status": "1",
+        "dateStamp": "12/21/2017, 10:58:58 AM",
+        "taskAddedDateStamp": "12/20/2017, 3:56:20 PM"
+    },
+    {
+        "id": 404,
+        "task": "Send COPD pocket app design draft to Shraddha",
+        "status": "1",
+        "dateStamp": "12/21/2017, 9:36:39 AM",
+        "taskAddedDateStamp": "12/20/2017, 4:25:24 PM"
+    },
+    {
+        "id": 405,
+        "task": "Create a new SOP on creating GA tracking id. Send this SOP to Dominik for ADA app.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/21/2017, 10:32:59 AM"
+    },
+    {
+        "id": 406,
+        "task": "Remind Frank for the ASCO app, sponsor images. Give a quick status",
+        "status": "1",
+        "dateStamp": "12/21/2017, 11:18:20 AM",
+        "taskAddedDateStamp": "12/21/2017, 11:04:00 AM"
+    },
+    {
+        "id": 407,
+        "task": "Work on the job descriptions and send it to Team mates. Send the Job descriptions to Sally in the evening.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/21/2017, 12:37:01 PM"
+    },
+    {
+        "id": 408,
+        "task": "Skype call with Vaclav on Redmine software.",
+        "status": "1",
+        "dateStamp": "12/21/2017, 3:12:05 PM",
+        "taskAddedDateStamp": "12/21/2017, 3:11:52 PM"
+    },
+    {
+        "id": 409,
+        "task": "Send ASCO app backup to Neville and Vinod",
+        "status": "1",
+        "dateStamp": "12/21/2017, 4:23:02 PM",
+        "taskAddedDateStamp": "12/21/2017, 4:13:16 PM"
+    },
+    {
+        "id": 410,
+        "task": "Send algorithms to Constance. Send machine readable excel sheets to Pranav.",
+        "status": "0",
+        "dateStamp": "12/21/2017, 6:14:59 PM",
+        "taskAddedDateStamp": "12/21/2017, 5:24:09 PM"
+    },
+    {
+        "id": 411,
+        "task": "Reply to Sylvia on EAU app login issue. Resend invitation to Antoine. Send. her screenshots.",
+        "status": "1",
+        "dateStamp": "12/21/2017, 6:19:36 PM",
+        "taskAddedDateStamp": "12/21/2017, 6:15:28 PM"
+    },
+    {
+        "id": 412,
+        "task": "Add ADA app security questions in Password excel sheet.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/21/2017, 6:15:49 PM"
+    },
+    {
+        "id": 413,
+        "task": "Work on the privacy policy on ESC web site version. Send it to Sylvia and Nathalie.",
+        "status": "0",
+        "dateStamp": null,
+        "taskAddedDateStamp": "12/21/2017, 6:18:37 PM"
     }
 ]

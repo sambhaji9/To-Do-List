@@ -11,7 +11,7 @@ button {
     padding: 7px;
     color: #f0f0f0;
     border-radius: 7px;
-    background: #00cc00;
+    background: #45ba45;
 }
 
 .input-div {
@@ -36,16 +36,19 @@ button {
     margin-left: 20px;
     width: 100px;
     font-size: 14px;
+    background: #45ba45;
+    color: #212529;
 }
 
 .table th {
     text-align: center;
     font-size: 14px;
     padding: 10px;
+    font-weight: normal;
 }
 
 .table-header {
-    background-color: #aabbcc;
+    background-color: #45ba45;
 }
 
 .table td {
@@ -87,6 +90,20 @@ tbody td:last-child {
     font-size: 12px;
     font-style: italic;
     padding-top: 3px;
+    color: mediumblue;
+}
+
+.about {
+    padding: 5px;
+}
+
+.about:hover {
+    cursor: pointer;
+}
+
+.filter {
+    font-size: 14px;
+    margin-top: 15px;
 }
 
 @font-face {

@@ -6,8 +6,6 @@ exports.addNewTask = function(taskObj) {
     // connect to the database
     let db = new sqlite3.Database('toDo.db');
 
-    console.log(new Date().toLocaleString());
-
     // insert the data in the table
     db.run('insert into myTasks(task, status, taskAddedDateStamp) values(?,?,?)', [taskObj.task, false, new Date().toLocaleString()], function(err) {
 
