@@ -6,7 +6,8 @@
 
     <script src="lib/jquery-3.1.0.min.js"></script>
     <link rel="stylesheet" type="text/css" href="styles/style.css" />
-
+    <!-- Popper.min.js -->
+    <script src="lib/popper.min.js"></script>
     <!-- Bootstrap library -->
     <script src="lib/bootstrap.min.js">
     </script>
@@ -21,7 +22,7 @@
 
         <button onclick="addTask()" type="button" class="btn btn-success save-button">SAVE</button>
 
-        <span class="about" id="aboutButton">About</span>
+        <span class="about" id="aboutButton" data-toggle="modal" data-target="#myModal">About</span>
 
     </div>
 
@@ -44,6 +45,25 @@
 
         </tbody>
     </table>
+
+    <div id="myModal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Version 0.1</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Powered by HTML, CSS, JavaScript, NodeJS, SQLite<br>Sambhaji</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
 
 </body>
 

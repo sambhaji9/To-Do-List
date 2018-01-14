@@ -71,9 +71,9 @@ $(document).ready(function() {
         }
     });
 
-    $("#aboutButton").click(function() {
-        alert("Powered by HTML, CSS, JavaScript, NodeJS, Sambhaji, Version 0.1");
-    });
+    // $("#aboutButton").click(function() {
+    //     alert("Powered by HTML, CSS, JavaScript, NodeJS, Sambhaji, Version 0.1");
+    // });
 
     $("#filter").change(function() {
         var mFilter = $("#filter").val();
